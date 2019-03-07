@@ -23,8 +23,11 @@ then served in collaboration with relevant Service Provider Server.
 # Service Provider Servers 
   These servers actually implement a service. A total of 03 such servers are to
 be implemented with following details:
+
 I)   Server1 is an echo service i.e., returns the same string back as passed to it.
+
 II)  Server2 is a palindrome service i.e., it return whether given string is palindrome or not.
+
 III) Server3 simply returns length of a given string.
 
 Best of Luck 
